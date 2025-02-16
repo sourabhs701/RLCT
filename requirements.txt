@@ -1,0 +1,23 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+plotly>=5.15
+jupyter>=1.0
+
+# APIs & Data
+ccxt>=4.1  # Unified crypto exchange API
+python-dotenv>=1.0  # .env file management
+requests>=2.31  # Glassnode API calls
+
+# ML/RL
+torch>=2.0  # or tensorflow>=2.12
+gymnasium>=0.29
+stable-baselines3>=2.0
+tqdm>=4.65  # Progress bars
+
+# Generative AI
+# timegan>=0.1  # Install from https://github.com/jsyoon0823/TimeGAN
+
+# Deployment
+streamlit>=1.25
